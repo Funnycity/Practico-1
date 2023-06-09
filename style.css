@@ -1,0 +1,198 @@
+html,body{
+
+    background: url(images/cosmere.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+.navbar{
+
+    background-color: black;
+    opacity: 90%;
+    height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: space-between;
+    
+   
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+color: white;
+font-size: 300px;
+background: #4d4a4498;
+
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 100px;
+    background: #e2ac4098;
+    border-radius: 100px;
+
+
+}
+
+h3{
+
+    font-size: 70px;
+}
+.banner{    
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 400px;
+
+
+}
+.texto {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-align: center;
+    color: #ffffff;
+    background: #4d4a4498;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 5px;
+    border-radius: 100px;
+    margin-bottom: 500px;
+}
+
+.Menu{
+        color: white;
+        display: flex;
+        align-items: center;
+        padding-right: 50px;
+        justify-content: end;
+}
+.menu{
+        font-size: 21px;
+        padding-left: 30px;
+        font-weight: 600;
+        transition: transform.2s;
+        
+    
+    }
+
+.menu:hover{
+    
+    color:lightblue;
+    transform: scale(1.1);
+   
+}
+.logo img{
+    height: 80px;
+    padding-left: 15px;
+}
+
+.bloque{
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 400px;
+}
+.bloque1{
+
+    margin-top: 70px;
+    -webkit-filter: blur(3px);
+	filter: blur(3px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+  
+
+}
+.bloque1:hover{
+
+    transform: scale(1.2);
+    -webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.bloque2{
+    margin-top: 70px;
+    -webkit-filter: blur(3px);
+	filter: blur(3px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+
+}
+
+.bloque2:hover{
+    transform: scale(1.2);
+    -webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.bloque3{
+    margin-top: 70px;
+    -webkit-filter: blur(3px);
+	filter: blur(3px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+ 
+
+}
+.bloque3:hover{
+
+    transform: scale(1.2);
+    -webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 30px;
+    padding: 30px;
+    background: #e2ac4098;
+    text-align: center;
+
+}
+
+/*INFO*/
+
+.he1{
+padding-top: 200px;
+text-align: center;
+
+
+}
+
+.bloques{
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+.he2{
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.he3{
+
+    padding-bottom: 100px;
+
+}
+
+.textos {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-align: left;
+    color: #ffffff;
+    background: #4d4a4498;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 5px;
+    border-radius: 100px;
+    
+}
